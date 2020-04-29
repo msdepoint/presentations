@@ -1,7 +1,7 @@
 # presentations
 Scholarship  and technical presentations
 
-[Tableau Dashboard created for Executive Committee at a region hospital to track COVID-19 Lab Results turn-around-time] (https://github.com/msdepoint/presentations/blob/master/Tableau%20Exec%20DB%20Example.pdf)
+[Tableau Dashboard created for Executive Committee at a region hospital to track COVID-19 Lab Results turn-around-time](https://github.com/msdepoint/presentations/blob/master/Tableau%20Exec%20DB%20Example.pdf)
 
 
 [Link to Databricks location of Predictive Modeling following CRISP-DM framework in python](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/8779297409385122/2454367971035803/1283151160921470/latest.html)
