@@ -13,4 +13,4 @@
 
 [Crisp DM process via SAS code/macros](https://github.com/msdepoint/presentations/blob/master/BOOTCAMP%20modeling%20process%20with%20dePoint%20SAS%20macros.pdf)
 
-[ML with Python Example](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd9a581c-7a96-4d7f-9f5a-f42db149afaf/view?access_token=013c91b798b11f3e015030ee9eee4051717b2a1362f576d639359b17083efb68)
+[Machine Learning with Python Example](https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/cd9a581c-7a96-4d7f-9f5a-f42db149afaf/view?access_token=013c91b798b11f3e015030ee9eee4051717b2a1362f576d639359b17083efb68)
